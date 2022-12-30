@@ -1,0 +1,52 @@
+* {
+    /* border: 1px solid black; */
+}
+
+#navbar-arkaplan {
+    background-color: rgb(41, 131, 31) !important;
+    border-radius: 15px;
+}
+.nav-item a {
+    color: azure !important;
+    font-weight: 600;
+    
+}
+.nav-item a:hover {
+    color: rgb(200, 199, 195) !important;
+    transform: scale(1.1);
+    transition: transform 200ms;
+
+}
+
+.carousel-resimleri img {
+    width: auto !important;
+    height: 40vh;
+    overflow: hidden;
+    margin: auto;
+    
+}
+
+#carouselExampleControls {
+    width: 50% !important;
+    margin: auto;
+}
+
+
+.text-justify {
+    text-align: justify !important;
+}
+
+footer {
+    width: 100%;
+    background-color: rgb(88, 87, 87);
+}
+footer span {
+    color: rgb(69, 209, 33);
+}
+
+footer p {
+    color: aliceblue;
+    font-weight: 700;
+    letter-spacing: 5px;
+    /* font-style: italic; */
+}
